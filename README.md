@@ -17,3 +17,5 @@ I design a quick algorithm/logic in which i build my application around it. Here
 4 - I could use a method that takes a subset of three array values from the current array and handle the conversion by block of 3 in which enabled me to use bigger numerical values without the BigInteger class.
 
 On the side note: I used ReadOnlySpan since it uses memory on the stack and also i could use very big numerical values without overflowing.
+
+After some review in discord: I can simplify this code by using the string value and keep track of the indexer to performer a the same result. Logic is confusing. Must refirne it.
