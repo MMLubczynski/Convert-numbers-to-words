@@ -19,7 +19,7 @@ namespace NumbersToWords
             string result = String.Empty;
             string stringValue = String.Empty;
 
-            Write("Convert a number into words.");
+            Write("This application converts numbers into words.");
             do
             {
                 Write("Please Enter a number without decimals: ");
