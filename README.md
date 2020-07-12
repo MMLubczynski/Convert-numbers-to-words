@@ -6,7 +6,7 @@ This console application converts numbers into words.
 
 This is a simple exercise that i wanted to perform to put my knowledge to the test.
 
-I design a quick algorithm for my approach with this mindset:
+I design a quick algorithm/logic in which i build my application around it. Here is my design:
 
 1 - From 0 to 19, they have different name patterns => Dictionary or Enum? EnumLowNumbers
 
@@ -14,8 +14,6 @@ I design a quick algorithm for my approach with this mindset:
 
 3 - For the values located in the 100 to 900, the word hundred is constant.
 
-I could use a method that takes a subset of three values from the current array and handle the conversion by block of 3.
-
-This initial plan when i began this application.
+4 - I could use a method that takes a subset of three array values from the current array and handle the conversion by block of 3 in which enabled me to use bigger numerical values without the BigInteger class.
 
 On the side note: I used ReadOnlySpan since it uses memory on the stack and also i could use very big numerical values without overflowing.
