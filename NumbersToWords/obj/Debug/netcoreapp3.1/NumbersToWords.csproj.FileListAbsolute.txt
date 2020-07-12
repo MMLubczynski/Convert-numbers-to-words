@@ -1,0 +1,13 @@
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\bin\Debug\netcoreapp3.1\NumbersToWords.exe
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\bin\Debug\netcoreapp3.1\NumbersToWords.deps.json
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\bin\Debug\netcoreapp3.1\NumbersToWords.runtimeconfig.json
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\bin\Debug\netcoreapp3.1\NumbersToWords.runtimeconfig.dev.json
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\bin\Debug\netcoreapp3.1\NumbersToWords.dll
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\bin\Debug\netcoreapp3.1\NumbersToWords.pdb
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\obj\Debug\netcoreapp3.1\NumbersToWords.csprojAssemblyReference.cache
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\obj\Debug\netcoreapp3.1\NumbersToWords.AssemblyInfoInputs.cache
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\obj\Debug\netcoreapp3.1\NumbersToWords.AssemblyInfo.cs
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\obj\Debug\netcoreapp3.1\NumbersToWords.csproj.CoreCompileInputs.cache
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\obj\Debug\netcoreapp3.1\NumbersToWords.dll
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\obj\Debug\netcoreapp3.1\NumbersToWords.pdb
+C:\Users\mmlub\source\repos\NumbersToWords\NumbersToWords\obj\Debug\netcoreapp3.1\NumbersToWords.genruntimeconfig.cache
